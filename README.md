@@ -1,40 +1,31 @@
-# Prompt2App - AI App Builder SaaS Template
-#### Preview
+# AppGenix
 
- - [Demo](https://themewagon.github.io/Prompt2App-nextjs/)
+AppGenix is a Next.js application designed to provide powerful app generation capabilities. It aims to offer developers a streamlined approach to building high-quality applications with minimal configuration.
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/Prompt2App-nextjs/)
+## Features
+- Fast and efficient scaffolding for new apps
+- Pre-configured settings for common environments
+- Support for modern JavaScript and TypeScript
+- Extensible architecture for plugins and customizations
 
 ## Getting Started
+To get started with AppGenix, clone the repository and install dependencies:
 
-1. Clone Repository
+```bash
+git clone https://github.com/BugBasherX/AppGenix.git
+cd AppGenix
+npm install
 ```
-git clone https://github.com/themewagon/Prompt2App-nextjs.git
-```
-2. Install Dependencies
-```
-npm i
-```
-3. Run the development server:
+
+## Usage
+
+To run the application locally:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-## Author 
-```
-Design and code is completely written by PrebuiltUI and development team. 
-```
+Visit `http://localhost:3000` to view your application in the browser.
 
-## License
-
- - Design and Code is Copyright &copy; <a href="https://prebuiltui.com/?utm_source=prompt2app" target="_blank">PrebuiltUI</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+## Contributing
+Contributions are welcome! Please read the [Contributing Guide](CONTRIBUTING.md) for more information.
